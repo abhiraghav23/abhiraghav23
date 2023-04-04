@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @abhiraghav23
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...java,html,css,js ,SQL
+# Hi, I'm **AbhishekRaghav**
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm from Haryana, India
+- I'm Interested in Web Developement
 
-<!---
-abhiraghav23/abhiraghav23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Language and Tools
+
+<img align= "left" alt="VS code" width="40px" src="./assets/VS_code.svg" style="padding-right:10px;" />
+<img align= "left" alt="HTML5" width="40px" src="./assets/HTML5.svg" style="padding-right:10px;" />
+<img align= "left" alt="CSS3" width="40px" src="./assets/CSS3.svg" style="padding-right:10px;" />
+<img align= "left" alt="Git" width="40px" src="./assets/Git.svg" style="padding-right:10px;" />
+<img align= "left" alt="GitHub" width="40px" src="./assets/Github.svg" style="padding-right:10px;" />
+<img align= "left" alt="C" width="40px" src="./assets/C.svg" style="padding-right:10px;"/>
+<img align= "left" alt="Cpp" width="40px" src="./assets/cplusplus.svg" style="padding-right:10px;"/>
+<img align= "left" alt="Java" width="40px" src="./assets/java.svg" style="padding-right:10px;"/>
+<img alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
+
+## Contact Me
+
+<!-- Add Your Contact Information -->
+
+## Stats
+
+<img align= "center" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=abhiraghav23&show_icons=true&theme=transparent&hide_border=true">
