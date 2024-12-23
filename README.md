@@ -1,6 +1,6 @@
 ### 🎉 Welcome to My Profile!
 
-![Welcome Animation](https://media.giphy.com/media/3o6Zt5WhKeo4gbVeL2/giphy.gif)
+![Welcome Animation]([https://media.giphy.com/media/3o6Zt5WhKeo4gbVeL2/giphy.gif](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5MzQ1NjgsIm5iZiI6MTczNDkzNDI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIzVDA2MTEwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MDRhMzliNGY2OWNiNWY2MTE5NmYzMzA1NzkwZDUwN2NmYjg5NzEzY2RkOTJiNTZkYTQxMGExYmQ5YjgwYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xyEAGhAAltUce7D1fbdFVvk90qJUoBnNKCE7QMNYM2w))
 
 
 👋 Hi, I'm Abhiraghav!
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 
 ### ⚒️ Work in Progress
 
-![Loading Spinner](https://media.giphy.com/media/xTk9ZvMnbIiI4K33K0/giphy.gif)
+![Loading Spinner](https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png)
 
 
 
@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 ![Commit Activity](https://img.shields.io/github/commits-since/abhiraghav23/your-repo-name/latest?style=social)
 
 
-<iframe src="https://giphy.com/embed/XC9zIjrdjNw1yJiP9m" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="[https://giphy.com/embed/XC9zIjrdjNw1yJiP9m](https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5MzQ1NjgsIm5iZiI6MTczNDkzNDI2OCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIzVDA2MTEwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5NDAxNzgyZGQ0NmZmZjJhYzJjYzU5ZmI1OTM4ZDE5YzAzOTU3ZWM4MTE3Njk3YTAxMWM1MDM4Y2FhMjBjZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jmvMZIkqyUFBQml6kF-oE-WES5phrITL1aoKV6D-PJE)" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### 🎨 Animated Lottie Logo
 
-![Lottie Animation](https://assets8.lottiefiles.com/packages/lf20_5V1kT1.json)
+![Lottie Animation](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5MzQ1NjgsIm5iZiI6MTczNDkzNDI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIzVDA2MTEwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwNDYzNjBkYWEwMDI3OTJkNmU4MTMwNGEyOWIzMjRhMWNhYjY1MTU2NzU3MmM5NTZmNDAzMjhkMjEzYjgwM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0AnvZpbxNR3KKpthivwcXBll7RD1h8QUs8_I3mFMcGI)
 
 ### 📅 My GitHub Contributions
 
@@ -74,11 +74,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 
 ![Skills Terminal](https://media.giphy.com/media/XcBx7Xix33eQs/giphy.gif)
 
-### 🌟 Featured Repositories
 
-- [Project 1](https://github.com/abhiraghav23/project1) ![Project 1 GIF](https://media.giphy.com/media/l3vR2hEZG7erByH1e/giphy.gif)
-- [Project 2](https://github.com/abhiraghav23/project2) ![Project 2 GIF](https://media.giphy.com/media/3ohs7JlS0gCqfbg9bC/giphy.gif)
-- [Project 3](https://github.com/abhiraghav23/project3) ![Project 3 GIF](https://media.giphy.com/media/l0HlTUlVXjRVlZfF6/giphy.gif)
 
 
 
