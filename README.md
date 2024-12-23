@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 
 ### ⚒️ Work in Progress
 
-![Loading Spinner](https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png)
+<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"/>
 
 
 
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 ## Contact Me
 
  💼<a href="raghavabhishek2003@gmail.com" style="text-decoration:none;">Mail</a>
- 🐦LinkedIN -  <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration:none;">Abhishek Raghav</a> 
+ 🐦LinkedIN <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration:none;">Abhishek Raghav</a> 
 🌐 <a href="https://abhiraghav23.github.io/Portfolio/" style="text-decoration:none;"> Porfolio</a>
 
 ### 🚀 Stats & Badges
@@ -57,8 +57,6 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 ![Commit Activity](https://img.shields.io/github/commits-since/abhiraghav23/your-repo-name/latest?style=social)
 
 
-
-### 🎨 Animated Lottie Logo
 
 ![Lottie Animation](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5MzQ1NjgsIm5iZiI6MTczNDkzNDI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIzVDA2MTEwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwNDYzNjBkYWEwMDI3OTJkNmU4MTMwNGEyOWIzMjRhMWNhYjY1MTU2NzU3MmM5NTZmNDAzMjhkMjEzYjgwM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0AnvZpbxNR3KKpthivwcXBll7RD1h8QUs8_I3mFMcGI)
 
