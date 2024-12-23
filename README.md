@@ -34,8 +34,15 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 
 ## Contact Me
 
- 💼<a href="raghavabhishek2003@gmail.com">Mail</a>
- 🐦LinkedIN -  <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Abhishek Raghav</a> 
-🌐 <a href="https://abhiraghav23.github.io/Portfolio/"> Porfolio</a>
-## Stats
-<img align= "center" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=abhiraghav23&show_icons=true&theme=transparent&hide_border=true">
+ 💼<a href="raghavabhishek2003@gmail.com" style="text-decoration:none;">Mail</a>
+ 🐦LinkedIN -  <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration:none;">Abhishek Raghav</a> 
+🌐 <a href="https://abhiraghav23.github.io/Portfolio/" style="text-decoration:none;"> Porfolio</a>
+
+## 🏆 GitHub Stats
+
+![Abhiraghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiraghav23&show_icons=true&count_private=true&theme=radical)
+
+## 🔥 My Streak
+
+![Abhiraghav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiraghav23&theme=dark)
+
