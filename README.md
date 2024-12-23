@@ -1,3 +1,8 @@
+### 🎉 Welcome to My Profile!
+
+![Welcome Animation](https://media.giphy.com/media/3o6Zt5WhKeo4gbVeL2/giphy.gif)
+
+
 👋 Hi, I'm Abhiraghav!
 Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source Contributor, and Tech Enthusiast. I love creating efficient, scalable, and impactful solutions using cutting-edge technologies. Let's build something amazing together! 🌱
 
@@ -6,6 +11,11 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 🔭 I’m currently working on building AI-driven applications.
 🌱 I’m learning Machine Learning and Blockchain Technology.
 💬 Ask me about JavaScript, React, Node.js and AI.
+
+### ⚒️ Work in Progress
+
+![Loading Spinner](https://media.giphy.com/media/xTk9ZvMnbIiI4K33K0/giphy.gif)
+
 
 
 ## Language and Tools
@@ -38,6 +48,40 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
  🐦LinkedIN -  <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration:none;">Abhishek Raghav</a> 
 🌐 <a href="https://abhiraghav23.github.io/Portfolio/" style="text-decoration:none;"> Porfolio</a>
 
+### 🚀 Stats & Badges
+
+![GitHub followers](https://img.shields.io/github/followers/abhiraghav23?style=social)
+![GitHub stars](https://img.shields.io/github/stars/abhiraghav23?style=social)
+![Top Languages](https://img.shields.io/github/languages/top/abhiraghav23/your-repo-name?style=social)
+![Commit Activity](https://img.shields.io/github/commits-since/abhiraghav23/your-repo-name/latest?style=social)
+
+
+<iframe src="https://giphy.com/embed/XC9zIjrdjNw1yJiP9m" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+### 🎨 Animated Lottie Logo
+
+![Lottie Animation](https://assets8.lottiefiles.com/packages/lf20_5V1kT1.json)
+
+### 📅 My GitHub Contributions
+
+![Abhiraghav's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhiraghav23&theme=dracula)
+
+### 👀 Profile Visitors
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhiraghav23)
+
+### 💻 Terminal Skills Showcase
+
+![Skills Terminal](https://media.giphy.com/media/XcBx7Xix33eQs/giphy.gif)
+
+### 🌟 Featured Repositories
+
+- [Project 1](https://github.com/abhiraghav23/project1) ![Project 1 GIF](https://media.giphy.com/media/l3vR2hEZG7erByH1e/giphy.gif)
+- [Project 2](https://github.com/abhiraghav23/project2) ![Project 2 GIF](https://media.giphy.com/media/3ohs7JlS0gCqfbg9bC/giphy.gif)
+- [Project 3](https://github.com/abhiraghav23/project3) ![Project 3 GIF](https://media.giphy.com/media/l0HlTUlVXjRVlZfF6/giphy.gif)
+
+
+
 ## 🏆 GitHub Stats
 
 ![Abhiraghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiraghav23&show_icons=true&count_private=true&theme=radical)
@@ -45,4 +89,9 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 ## 🔥 My Streak
 
 ![Abhiraghav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiraghav23&theme=dark)
+
+### 💬 Developer Quote
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
 
