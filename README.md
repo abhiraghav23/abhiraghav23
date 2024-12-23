@@ -1,7 +1,12 @@
-# Hi, I'm **AbhishekRaghav**
+👋 Hi, I'm Abhiraghav!
+Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source Contributor, and Tech Enthusiast. I love creating efficient, scalable, and impactful solutions using cutting-edge technologies. Let's build something amazing together! 🌱
 
-- I'm from Haryana, India
-- I'm Interested in Web Developement
+🌱 About Me
+🧑‍💻 Full Stack Developer | 🌐 Web Development | ⚙️ Software Development
+🔭 I’m currently working on building AI-driven applications.
+🌱 I’m learning Machine Learning and Blockchain Technology.
+💬 Ask me about JavaScript, React, Node.js and AI.
+
 
 ## Language and Tools
 
@@ -19,11 +24,18 @@
 <img align= "left" alt="Cpp" width="40px" src="./assets/cplusplus.svg" style="padding-right:10px;"/>
 <img align= "left" alt="Java" width="40px" src="./assets/java.svg" style="padding-right:10px;"/>
 <img alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
+
+
+🧩 Fun Facts
+🌟 I enjoy solving complex algorithms and working on data structures.
+🎮 In my free time, I play strategy games and explore new tech.
+🌱 My favorite quote: “Learning never exhausts the mind.” – Leonardo da Vinci
+
+
 ## Contact Me
 
-Mail- raghavabhishek2003@gmail.com 
-LinkedIN -  <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Abhishek Raghav</a> 
-Portfolio - https://abhiraghav23.github.io/Portfolio/
+ 💼<a href="raghavabhishek2003@gmail.com">Mail</a>
+ 🐦LinkedIN -  <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Abhishek Raghav</a> 
+🌐 <a href="https://abhiraghav23.github.io/Portfolio/"> Porfolio</a>
 ## Stats
-
 <img align= "center" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=abhiraghav23&show_icons=true&theme=transparent&hide_border=true">
