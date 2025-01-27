@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer, Open Source
 ## Contact Me
 
  💼<a href="raghavabhishek2003@gmail.com" style="text-decoration:none;">Mail</a>
- 🐦LinkedIN <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration:none;">Abhishek Raghav</a> 
+ 🐦LinkedIn <a href="https://www.linkedin.com/in/abhishek-raghav-74b848218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="text-decoration:none;">Abhishek Raghav</a> 
 🌐 <a href="https://abhiraghav23.github.io/Portfolio/" style="text-decoration:none;"> Porfolio</a>
 
 ### 🚀 Stats & Badges
